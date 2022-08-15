@@ -1,0 +1,5 @@
+All music used is by Kanooli (https://www.youtube.com/channel/UCQtbQMBmHcbIrXQAHHtZOow)
+Northbound - https://www.youtube.com/watch?v=2NxhC5YiBIA
+Evergreen - https://www.youtube.com/watch?v=smY05U9lmjk
+Pixel River - https://www.youtube.com/watch?v=NQcKrdORe0c
+you can change the music in ./assets/sound/music.txt

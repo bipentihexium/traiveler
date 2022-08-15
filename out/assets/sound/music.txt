@@ -1,0 +1,4 @@
+# has to be *.ogg!
+Kanooli_Northbound:Kanooli - Northbound
+Kanooli_Evergreen:Kanooli - Evergreen
+Kanooli_PixelRiver:Kanooli - Pixel River
